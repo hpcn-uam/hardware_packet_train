@@ -8,7 +8,7 @@ Inside this folder you will find the files needed to enter / modify into the [OS
 ![Architecture](https://github.com/hpcn-uam/hardware_packet_train/blob/master/netfpga_arch.png)
 ![Board](https://github.com/hpcn-uam/hardware_packet_train/blob/master/NetFPGA10G.jpg)
 
-## ZedBoard1G
+## ZedBoard
 
 Inside this folder you will find the files to create a new proyect to implement the measurement packet train on ZedBoard.
 
