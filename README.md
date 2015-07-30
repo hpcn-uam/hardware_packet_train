@@ -4,7 +4,7 @@
 
 Inside this folder you will find the files needed to enter / modify into the OSNT project to implement the measurement packet train on NetFPGA.
 
-Original OSNT project (https://github.com/NetFPGA/OSNT-Public/wiki)
+Original [OSNT](https://github.com/NetFPGA/OSNT-Public/wiki) project 
 
 ![Architecture](https://github.com/hpcn-uam/hardware_packet_train/netfpga_arch.jpg)
 ![Board](https://github.com/hpcn-uam/hardware_packet_train/NetFPGA10G.jpg)
