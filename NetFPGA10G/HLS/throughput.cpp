@@ -9,7 +9,7 @@
  *        Network Parameters Calculator
  *
  *  Author:
- *        Mario Ruiz
+ *        Mario Ruiz, Antonis Gavaletakis, Gustavo Sutter
  *
  *
  *  Copyright (C) 2015 - Mario Ruiz and HPCN-UAM High Performance Computing and Networking
