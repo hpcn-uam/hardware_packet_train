@@ -1,5 +1,6 @@
 # Hardware Packet Train
-Developed by HPCN Research Gropu
+Developed by HPCN Research Group
+
 ![Logo](https://github.com/hpcn-uam/hardware_packet_train/blob/master/hpcn.png)
 ## NetFPGA10G
 
